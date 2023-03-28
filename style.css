@@ -1,0 +1,110 @@
+.Div1{
+    height:100px;
+    width:500px;
+    background-color:whitesmoke;
+    margin-left:80px;
+}
+.Div{
+    background-color:white;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    margin: 20px;
+    border-width: 2px;
+    border-color:seagreen;
+    border-style: solid;
+    display:inline-block;
+}
+.Icon{
+    font-size:30px;
+    padding: 10px;
+}
+.Facebook{
+    color:#4267B2;
+}
+.Twitter{
+    color:#1DA1F2;
+}
+.Instagram{
+    color:#833AB4;
+}
+.Whatsapp{
+    color:#25D366;
+}
+.User{
+    color:darkblue;
+}
+.Photo{
+    height:600px;
+    width: 600px;
+    margin:30px;
+    border-width:3px;
+    background-color: aliceblue;
+    border-color:grey;
+    border-style:dashed;
+}
+img{
+    margin-left:20px;
+}
+h1{
+    margin-left:150px;
+}
+h4{
+    margin-left:170px;
+}
+input{
+    margin-top:60px;
+    margin-left:220px;
+}
+.Text{
+    margin-left:120px;
+}
+.Eco-Friends{
+    border:2px solid green;
+    height:600px;
+    width:600px;
+    margin-left:30px;
+}
+.Leaf{
+    height:100px;
+    width:600px;
+    background-color: green;
+}
+.Eco{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color: whitesmoke;
+    position:absolute;
+    margin-top:20px;
+    margin-left:20px;
+}
+.Leaf-icon{
+    font-size:30px;
+    margin-left:10px;
+    margin-top:10px;
+}
+.Image{
+    height:450px;
+    width:600px;
+    background-image: url("http://brambles.ie/wp-content/uploads/2018/10/eco-friendly-go-green.jpg");
+    position:relative;
+}
+.Text1{
+    position:absolute;
+    left:10px;
+    top:30px;
+
+}
+.H1{
+    color:brown;
+    margin-left:170px;
+    margin-top: 80px;
+}
+h2{
+    margin-left:70px;
+    color:blueviolet;
+}
+.I{
+    margin-top:470px;
+}
